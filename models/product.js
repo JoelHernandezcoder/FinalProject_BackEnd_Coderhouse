@@ -20,7 +20,7 @@ const product = new mongoose.Schema({
   userId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
-    required: false, // if you seed put false
+    required: true, // if you seed put false
   },
 });
 

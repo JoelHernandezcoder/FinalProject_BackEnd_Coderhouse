@@ -10,7 +10,7 @@ const pdfkit = require('pdfkit');
 const Order = require('../models/order');
 const Product = require('../models/product');
 
-const ITEMS_PRE_PAGE = 5;
+const ITEMS_PRE_PAGE = 6;
 
 exports.getProducts = async (req, res, next) => {
   try {
