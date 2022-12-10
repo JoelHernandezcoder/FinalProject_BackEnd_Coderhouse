@@ -37,7 +37,3 @@ Matias Niedermaier - Coderhouse Tutor
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Heroku Link
-
-https://coder-shop.herokuapp.com/
